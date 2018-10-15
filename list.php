@@ -10,9 +10,9 @@
 		<table>
 			<tr>
 				<td>SEARCH</td>
-				<td><form action="search.php" method="POST"
-					input type="text" name="search"
-					input type="submit" name="submit" value="submit">
+				<td><form action="search.php" method="POST">
+					<input type="text" name="search">
+					<input type="submit" name="submit" value="submit">
 			</form>
 			<tr> 
 				<th>Nama</th>
