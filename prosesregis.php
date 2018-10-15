@@ -20,7 +20,7 @@ $moto=$_POST['moto'];
 									)
 								VALUES (
 								'$nama',
-								'nim',
+								'$nim',
 								'$jenis_kelamin',
 								'$program_studi',
 								'$fakultas',
